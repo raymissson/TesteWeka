@@ -1,0 +1,34 @@
+@relation teste
+
+@attribute palavra string
+@attribute letra {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z}
+
+@data
+QUARTOS,Q
+QUARTO,Q
+SALA,S
+QTO,Q
+QTOS,Q
+QT,Q
+SALAS,S
+SL,S
+SLS,S
+TELEFONE,T
+TEL,T
+FONE,F
+TELEFONES,T
+TELS,T
+FONES,F
+QTS,Q
+COZINHA,C
+COZ,C
+BANHEIRO,B
+BANH,B
+BANHEIROS,B
+SUITES,S
+SUITE,S
+STE,S
+QTD,Q
+QUANTIDADE,Q
+QUANT,Q
+ST,S
